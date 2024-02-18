@@ -1,4 +1,4 @@
-###:skull:
+### :skull:
 
 # Contributor Covenant Code of Conduct
 
